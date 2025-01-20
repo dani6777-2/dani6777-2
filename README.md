@@ -3,6 +3,7 @@
 Soy un apasionado desarrollador full-stack de Chile, comprometido con la creación de soluciones innovadoras y en constante perfeccionamiento de mis habilidades.
 
 - 💼 Conoce más sobre mi trayectoria en [LinkedIn](https://www.linkedin.com/in/daniel-23dma/).
+- perfil antiguo [LinkedIn](https://github.com/Dani6777/).
 - 📧 No dudes en escribirme a [daniel.morales23@outlook.cl](mailto:daniel.morales23@outlook.cl) para colaboraciones o consultas.
 - 🌐 Visita [mi sitio web](https://my-portafolio-app.onrender.com/#inicio) para ver todos mis proyectos.
 
