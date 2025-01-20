@@ -37,7 +37,7 @@ Soy un apasionado desarrollador full-stack de Chile, comprometido con la creaci√
  ## Estad√≠sticas de GitHub
 
 ### Top Lenguajes
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dani6777&layout=compact)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
 
 ### Racha de GitHub
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=dani6777-2)
