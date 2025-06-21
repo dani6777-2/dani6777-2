@@ -1,7 +1,7 @@
 # 👨‍💻 Daniel Morales - Ingeniero de software
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Analista+de+Desarrollo;Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Ingeniero+de+Software;Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
