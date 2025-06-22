@@ -36,6 +36,7 @@
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -53,16 +54,19 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go)
 
 ### 🗃️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -87,7 +91,9 @@
 - Interfaces web dinámicas con React / Next.js  
 - Automatizaciones con Python para tareas de scraping y ETL  
 - APIs REST y GraphQL con Node.js y Express  
-- Arquitecturas cloud serverless en AWS y GCP
+- Arquitecturas cloud serverless en AWS y GCP  
+- Procesamiento concurrente de archivos con Go y Pub/Sub  
+- Consultas eficientes en BigQuery con control transaccional en GORM
 
 ---
 
