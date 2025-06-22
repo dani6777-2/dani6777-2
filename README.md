@@ -1,88 +1,97 @@
-# 👨‍💻 Daniel Morales - Ingeniero de software
+# 👨‍💻 Daniel Morales - Ingeniero de Software
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Ingeniero+de+Software;Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
 </div>
 
+---
+
 ## 🚀 Sobre mí
 
-¡Hola! Soy **Daniel Morales**, un Ingeniero de software apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web y APIs robustas, con experiencia en múltiples tecnologías y frameworks.
-
-### 💼 Lo que hago
-- 🔧 Desarrollo de aplicaciones web full-stack
-- 🗄️ Diseño y optimización de bases de datos
-- ☁️ Implementación de soluciones cloud
-- 🚀 Automatización y CI/CD
-- 📊 Análisis y optimización de rendimiento
+¡Hola! Soy **Daniel Morales**, Ingeniero de Software con una fuerte pasión por la tecnología y la creación de soluciones digitales innovadoras. Me especializo en el desarrollo de aplicaciones web y APIs escalables, integrando buenas prácticas de ingeniería, automatización y arquitectura cloud.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 💼 ¿Qué hago?
+
+- 🔧 Desarrollo de aplicaciones web **Full Stack**
+- 🧠 Diseño de arquitecturas escalables y mantenibles
+- 🗄️ Modelado y optimización de **bases de datos relacionales y no relacionales**
+- ☁️ Despliegue e integración en la nube (**AWS**, **GCP**)
+- 🔁 Automatización de procesos con pipelines de **CI/CD**
+- 📊 Monitorización y optimización de rendimiento con métricas
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dani6777-2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dani6777-2&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dani6777-2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=es" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dani6777-2&layout=compact&langs_count=6&theme=dracula&locale=es" height="150" />
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🧰 Stack Tecnológico
 
-### 🎯 **Lenguajes de Programación**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-### 🌐 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-### ⚙️ **Backend & APIs**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### ⚙️ Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-### 🗄️ **Bases de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗃️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
 
-### 🛠️ **Herramientas & Otros**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+### 🔧 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 
 ---
 
-## 📈 Proyectos Destacados
+## 🌟 Proyectos Destacados
 
-### 🚀 **API Sectorial** 
-- **Descripción**: API RESTful para gestión de paquetes y zonas de entrega
-- **Tecnologías**: Java, Spring Boot, MySQL, Docker
-- **Características**: Geocodificación, validación de códigos de barras, métricas de rendimiento
+### 🚀 **API Sectorial**
+**Descripción**: Servicio REST para la gestión de paquetes y zonas de entrega.  
+**Stack**: Java, Spring Boot, MySQL, Docker  
+**Características**:  
+- Geocodificación de direcciones  
+- Validación de códigos de barras  
+- Métricas de rendimiento y logs estructurados
 
-### 🔧 **Otros Proyectos**
-- Aplicaciones web con React/Next.js
-- APIs con Node.js y Express
-- Automatizaciones con Python
-- Soluciones cloud en AWS y Google Cloud
+### 🧪 Otros proyectos
+- Interfaces web dinámicas con React / Next.js  
+- Automatizaciones con Python para tareas de scraping y ETL  
+- APIs REST y GraphQL con Node.js y Express  
+- Arquitecturas cloud serverless en AWS y GCP
 
 ---
 
-## 📱 Conecta conmigo
+## 📫 Contacto
 
 <div align="center">
   <a href="mailto:tu-email@gmail.com">
@@ -98,7 +107,7 @@
 
 ---
 
-## 🎵 Lo que estoy escuchando
+## 🎧 Música Reciente
 
 <div align="center">
   <a href="https://open.spotify.com/user/31cu4qobkw4tsmuztburminbutlq">
@@ -108,7 +117,7 @@
 
 ---
 
-## 📝 Últimos Artículos
+## ✍️ Últimos artículos
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=dani6777-2" alt="Últimos artículos de Medium" />
@@ -116,7 +125,7 @@
 
 ---
 
-## 🐍 Contribuciones
+## 🐍 Actividad reciente
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dani6777-2/Dani6777-2/output/snake.svg" alt="Snake animation" />
@@ -124,7 +133,7 @@
 
 ---
 
-## 👥 Visitantes
+## 📊 Contador de visitas
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dani6777-2/count.svg" alt="Contador de visitantes" />
@@ -133,5 +142,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil!+%F0%9F%9A%80" alt="Gracias por visitar" />
 </div>
